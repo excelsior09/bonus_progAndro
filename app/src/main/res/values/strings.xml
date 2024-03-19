@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">coba5</string>
+    <string name="welcome_text">Selamat datang di aplikasi enkripsi pesan!
+            Anda bisa menggunakan aplikasi ini untuk enkripsi kata / kalimat.
+            Silahkan klik tombol start untuk memulai.</string>
+    <string name="start">Start</string>
+    <string name="message">konto input pesan rahasia Anda</string>
+    <string name="next">Next</string>
+    <string name="encrypt_text">Hasil pesan enkrispsi Anda adalah :</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
